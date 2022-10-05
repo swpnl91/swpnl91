@@ -1,4 +1,5 @@
-![Banner](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/ef9a3260506271.5a4f65ff2e513.gif)
+
+<img align="center" alt="Coding" src="./tron.gif">
 
 <h1 align="center">Hi 👋, I'm Swapnil Parab!</h1>
 <h3 align="center">A passionate full stack developer from Toronto.</h3>
