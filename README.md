@@ -1,4 +1,4 @@
-![Banner](./tron.gif)
+![Banner](./rocket.gif)
 
 <h1 align="center">Hi 👋, I'm Swapnil Parab!</h1>
 <h3 align="center">A passionate full stack developer from Toronto.</h3>
