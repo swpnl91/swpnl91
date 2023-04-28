@@ -1,13 +1,15 @@
 ![Banner](./rocket.gif)
 
-<h1 align="center">Hi 👋, I'm Swapnil Parab!</h1>
+<h1 align="center">Hi 👋, I'm Swapnil!</h1>
 <h3 align="center">A passionate full stack developer from Toronto.</h3>
 
 - 🌱 I’m currently learning **Data Structures & Algorithms**
 
 - 💬 Ask me about **JavaScript, React, Node.js, Express**
 
-- ⚡ My other interests include - **Hiking, Photography/Astrophotography, Travelling**
+- ⚡ My other interests include - **Hiking, Photography/Astrophotography, Traveling**
+
+#### _Click [here](https://pswapnil.onrender.com/) to check out my portfolio_
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
